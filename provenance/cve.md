@@ -1,0 +1,8 @@
+## Dockerfile
+
+### Docker Image: postgres:alpine
+| Severity | Count |
+|----------|-------|
+| high | 48 |
+| critical | 4 |
+| medium | 3 |
