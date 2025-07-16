@@ -1,1 +1,1 @@
-FROM postgres:alpine
+FROM postgres:alpine@sha256:ec01646a894c7c5aec8a29e0fe723ab093e24e2e055940090d282d8ab1c79d26
